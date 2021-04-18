@@ -1,2 +1,4 @@
 # kms-2021
-activador de windows y office en español
+Para ocupar nuestro activador kms debes ejecutarlo como administrador y seguir las instrucciones detalladas.
+
+Creditos a @dev
